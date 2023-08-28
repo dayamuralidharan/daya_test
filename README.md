@@ -11,8 +11,11 @@ test repo for git + github lesson
 Daya Muralidharan is a Research Data Specialist at the California Department of Water Resources, specializing in economic analyses. She can be reached via email at [daya.muralidharan@water.ca.gov](mailto:daya.muralidharan@water.ca.gov)
 
 ## How to Create a Git Repository from an Existing Project
-Copy the URL from GitHub
-Start a new project in RStudio
-Use version control to set-up the project
-Copy the repository URL from GitHub
-Save
+login to GitHub
+Click add new repository
+Add a name and short description
+Check the box for a readme file
+Add a .gitignore
+Set the license
+
+
